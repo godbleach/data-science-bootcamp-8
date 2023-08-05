@@ -14,3 +14,5 @@ I learned a lot of stuff related to data science skills. This Bootcamp
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LikedIn https://www.linkedin.com/in/sarun-sangasaeng/
